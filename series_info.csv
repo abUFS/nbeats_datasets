@@ -1,0 +1,11 @@
+id,file,seasonality
+SUNSPOT,SUNSPOT.csv,Yearly
+CARSALES,CARSALES.csv,Monthly
+GAS,GAS.csv,Monthly
+LAKEERIE,LAKEERIE.csv,Monthly
+PIGS,PIGS.csv,Monthly
+REDWINE,REDWINE.csv,Monthly
+POLLUTION,POLLUTION.csv,Monthly
+ELECTRICITY,Electricity.csv,Monthly
+B1H,B1H.csv,Hourly
+NORDIC,Nordic.csv,Hourly
